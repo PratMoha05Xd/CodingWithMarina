@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Packages.iml" filepath="$PROJECT_DIR$/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingWithMarina.iml" filepath="$PROJECT_DIR$/CodingWithMarina.iml" />
     </modules>
   </component>
 </project>
